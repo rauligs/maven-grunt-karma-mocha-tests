@@ -1,5 +1,4 @@
-# maven-grunt-karma-mocha-tests
-
+# Spike
 ## Example Running Mocha Tests with Karma runner using Maven and Grunt
 
 * Based on: [Client side testing with Mocha and Karma](https://sean.is/writing/client-side-testing-with-mocha-and-karma) 
